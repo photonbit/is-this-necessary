@@ -1,0 +1,24 @@
+{
+  "name": "is-this-necessary",
+  "version": "0.6.9",
+  "description": "Is this absolutely necessary?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified. Suppose they always fail.\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/photonbit/is-this-necessary.git"
+  },
+  "keywords": [
+    "computer",
+    "says",
+    "no"
+  ],
+  "author": "Daniel Moreno",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/photonbit/is-this-necessary/issues"
+  },
+  "homepage": "https://github.com/photonbit/is-this-necessary"
+}
